@@ -1,5 +1,5 @@
 # Solve-basic-math-problem-using-computer-vision
-The database consists of "+","-","x" images of size 45x45
+The dataset consists of "+","-","x" images of size 45x45
 
 Steps to execute this project:
 1. Download the dataset from here: https://drive.google.com/drive/folders/1SOpYiUSVLluZguUv6zUl3fl1-gfFYuH2?usp=sharing
